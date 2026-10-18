@@ -1,5 +1,5 @@
-# profile-title: Gtavpnbot 
-# profile-update-interval: 1
+#profile-title: tg @gtavpnbot
+
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?type=tcp&encryption=none#БЕЛЫЕ_СПИСКИ_СНИЗУ
 vless://46949187-1e23-4633-9798-d3029ab2b205@l.wickynode.com:443?type=tcp&security=reality&sni=l1.rushdrive.io&pbk=IQXOKZ_6af0ZQO1Oo0-r463kPt9exaW3ajEgwgM1yWc&sid=a8d40e223396f601&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%9F%A2LTE%20%7C%20%235%20%7C%20%202
