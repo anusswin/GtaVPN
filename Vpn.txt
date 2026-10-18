@@ -1,7 +1,9 @@
 # profile-title: Gtavpnbot 
 # profile-update-interval: 1
-
-
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?type=tcp&encryption=none#БЕЛЫЕ_СПИСКИ_ВНИЗУ
+vless://46949187-1e23-4633-9798-d3029ab2b205@pl1.wickynode.com:443?type=tcp&security=reality&sni=pl1.wickynode.com&pbk=28sIxRee-1hRzeHTeWVKp5EhYJBt2w1OuP7kuf-Waiw&sid=55dac7b5814df4e0&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%8C%90%20%D0%90%D0%B2%D1%82%D0%BE%20%7C%20Wi-Fi%20%E2%9A%A1%EF%B8%8F%E2%9A%A1%EF%B8%8F%E2%9A%A1%EF%B8%8F%205
+vless://46949187-1e23-4633-9798-d3029ab2b205@uk.wickynode.com:443?type=tcp&security=reality&sni=uk.wickynode.com&pbk=89BpF1CSq9aTUvtion2sH962r7FXU4V6C_SIGfBd-i4&sid=55dac7b5814df4e0&fp=qq&spx=%2F&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%8C%90%20%D0%90%D0%B2%D1%82%D0%BE%20%7C%20Wi-Fi%20%E2%9A%A1%EF%B8%8F%E2%9A%A1%EF%B8%8F%E2%9A%A1%EF%B8%8F%203
+vless://46949187-1e23-4633-9798-d3029ab2b205@gm5.wicknetwork.pro:443?type=tcp&security=reality&sni=gm5.wickynode.com&pbk=QaZ6QHfFIk454yUm0BuJvHOj1_y-VlO_a1nfLOChmFw&sid=bffeb733308014b8&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%8C%90%20%D0%90%D0%B2%D1%82%D0%BE%20%7C%20Wi-Fi%20%E2%9A%A1%EF%B8%8F%E2%9A%A1%EF%B8%8F%E2%9A%A1%EF%B8%8F%202
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?type=tcp&encryption=none#ОБЫЧНЫЙ_VPN_Снизу
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&security=reality&sid=&sni=qq.utiltools.site&type=tcp#ТОЛЬКО_тг
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&security=reality&sid=&sni=qq.utiltools.site&type=tcp#ТОЛЬКО_тг
